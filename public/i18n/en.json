@@ -5,6 +5,7 @@
     "welcome": {
         "ABORT": "Abort",
         "CONTINUE_ANYWAY": "Continue anyway",
+        "DESKTOP_BETA_HINT": "Try our all-new desktop experience",
         "PLEASE_SCAN": "Scan this QR code with your Threema app",
         "PLEASE_SCAN_INSTRUCTIONS": "Android: Menu > Desktop/Web | iOS: Settings > Desktop/Web",
         "PLEASE_UNLOCK": "Session closed",
